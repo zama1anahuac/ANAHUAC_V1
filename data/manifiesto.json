@@ -1,0 +1,22 @@
+{
+  "version": "V1",
+  "fecha": "2026-11-20",
+  "entorno": "PROTOTIPO_LOCAL_NO_PUBLICAR",
+  "autorizacion_publicacion": false,
+  "conteos": {
+    "investigaciones": 249,
+    "preguntas": 365,
+    "descriptivas": 249,
+    "causales_candidatas": 116,
+    "rutas_sectoriales": 1157,
+    "conceptos_co": 30,
+    "vinculos_co_provisionales": 6,
+    "historico_conservado_interno": 5270,
+    "descartes_internos": 2730
+  },
+  "descargas_pdf": {},
+  "master_sha256": "43a1977cc3b0c2d496d3700bb958e8285856d7d57b8b2828f8d2f218f28d320c",
+  "avisos": [
+    "Prototipo local, pendiente revisión docente y autorización de difusión"
+  ]
+}
